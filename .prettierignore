@@ -1,0 +1,16 @@
+**/.git
+**/vendor
+**/node_modules
+**/src
+**/web/wp-content/plugins
+**/web/wp-content/themes/**/css
+**/web/wp-content/themes/**/js
+**/*.json
+**/*.lock
+**/*.css
+**/*.js
+**/*.jsx
+**/*.ts
+**/*.tsx
+.prettierrc
+

@@ -1,0 +1,9 @@
+{
+    "printWidth": 120,
+    "tabWidth": 4,
+    "plugins": [
+        "@prettier/plugin-php",
+        "prettier-plugin-tailwindcss"
+    ],
+    "tailwindStylesheet": "./tailwind.css"
+}
